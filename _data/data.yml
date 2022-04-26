@@ -154,29 +154,27 @@ experiences:
 projects:
     title: 외부 활동
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Flutter Puzzle Hack
+        link: "#https://flutter.dev/events/puzzle-hack"
+        tagline: "플러터팀에서 진행했던 Puzzle 해커톤에 참가했습니다."
+    
+      - title: 2020년 지역기반 로컬크리에이터 활성화 정부지원 사업
+        link: "#https://devwoogi.notion.site/a448dcbf256a46339150c8ea4f33b7c6?v=7f6ac0fe07e44dd690bebc641a58b4f2"
+        tagline: "계명대학교 창업지원단에서 20년 지역기반 로컬크리에이터 활성화 정부지원 사업에 뽑혀 활동했습니다."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 대구 GIF 스타트업 오디션
+        link: "#https://devwoogi.notion.site/a448dcbf256a46339150c8ea4f33b7c6?v=7f6ac0fe07e44dd690bebc641a58b4f2"
+        tagline: "대구 GIF 스타트업 오디션에 Top 100에 선정되어 창업에 도전했었습니다."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 연세대학교 창의티움 여름캠프, 디지펜 Project Fun
+        link: "#https://devwoogi.notion.site/a448dcbf256a46339150c8ea4f33b7c6?v=7f6ac0fe07e44dd690bebc641a58b4f2"
+        tagline: "창의틔움 여름캠프에서 디지펜 Project Fun (게임개발)에서 방학기간동안 조교로서 학과 교수님과 함께 초,중,고등학생들에게 게임개발 지도를 맡았습니다."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 계명대학교 멋쟁이사자처럼 8기
+        link: "#https://devwoogi.notion.site/a448dcbf256a46339150c8ea4f33b7c6?v=7f6ac0fe07e44dd690bebc641a58b4f2"
+        tagline: "계명대학교 멋쟁이사자처럼 8기로서 여러 동료들과함께 프로젝트를 기획, 디자인, 개발을 했습니다."
 
 # publications:
 #     title: Publications
